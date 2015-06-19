@@ -1,0 +1,1 @@
+# Simplified Example for OO Relations in JavaScript
